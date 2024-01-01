@@ -32,8 +32,6 @@
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuznsilva&hide_border=true&layout=compact&langs_count=7&theme=tokyonight"/>  
 </div>
 
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheuznsilva&bg_color=gba(0, 0, 0, 0)&color=9e4c98&line=793698&point=481f5b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-
 <!--*************** About ***************-->
 <h3>🚀 About me...</h3>
 <br />
