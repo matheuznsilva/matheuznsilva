@@ -57,14 +57,14 @@
 <div>
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-323330.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" alt="vs-code">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" alt="vs-code">
 </div>
 
 ---
 
 <!--*************** Front-end ***************-->
 
-<h3> Skills</h3>
+<h3>🤖 Skills</h3>
 <div>
   <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&amp;logo=C&amp;logoColor=white" alt="C">
   <!--<img src="https://img.shields.io/badge/Java-E74C3C?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">-->
@@ -81,13 +81,13 @@
 
 <!--*************** Workspace setup ***************-->
 
-<h3>🖥️ Workspace Setup</h2>
+<h3>💻 Workspace Setup</h2>
 <div>
-  <img src="https://img.shields.io/badge/I7-10750H?style=for-the-badge&amp;logo=intel&amp;logoColor=white" alt="I7-10750H">
+  <img src="https://img.shields.io/badge/i7-10750H-00FF00?style=for-the-badge&amp;logo=intel&amp;logoColor=white" alt="Intel Core i7-10750H">
   <img src="https://img.shields.io/badge/RAM-16GB-0071C5?style=for-the-badge&amp;logo=memoria-ram&amp;logoColor=white" alt="16GB RAM">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX_2060-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="gtx-2060">
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="gtx-2060">
   <img src="https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="ubuntu 22.04LTS">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" alt="vs-code">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" alt="vs-code">
 </div>
 
 ---
