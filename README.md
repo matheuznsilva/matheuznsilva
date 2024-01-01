@@ -1,18 +1,15 @@
 <h2 align="center">
  Hi! I'm Matheus
-  <img 
-    src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
-    width="30px">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
   <br />
   Welcome to my GitHub profile!!!
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=matheuznsilva.matheuznsilva" alt="visitors">
   <p></p>
+
 </h2>
 
 <div>
-  <img
-    src="https://i.imgur.com/1ZvVkDc.gif" 
-    alt="mario coding"
-    />
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="mario coding"/>
 </div>
 
 <p></p>
@@ -37,6 +34,20 @@
 
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheuznsilva&bg_color=gba(0, 0, 0, 0)&color=9e4c98&line=793698&point=481f5b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
+<!--*************** About ***************-->
+<h3>🚀 About me...</h3>
+<br />
+<div>
+  <ul>
+    <li>💻 Fullstack developer </li><br/>
+    <li>📌 I currently share my house in two cities, Sete Lagoas and São João del-Rei, both in Minas Gerais - Brazil.</li><br/>
+    <li>📚👨‍🎓 I'm a Computer Science student at the Universidade Federal de São João del-Rei</li><br/>
+    <li>🌱 I'm delving deeper into Python, Flask and JavaScrip.</li><br/>
+    <li>🇺🇸 I can express myself relatively well in English, but I'm trying to improve to achieve fluency.</li><br/>
+    <li>💬 Any help or tips are always welcome! my social networks are in the links above</li><br/>
+    <li>❤️ Interests: 💻 Coding, 📺 watching films and series, ⚽ watching and playing football, 🏎️ watching F1, 🎸 playing the guitar, 📚 reading books and 🎮 playing video games.</li><br/>
+  </ul>
+</div>
 <div align="center" style="display: inline_block"><br>
   
   <img alt="Ge-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
