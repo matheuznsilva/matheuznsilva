@@ -72,6 +72,7 @@
   <img src="https://img.shields.io/badge/Python-F4D03F?style=for-the-badge&amp;logo=Python&amp;logoColor=black" alt="PYTHON">
   <img src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&amp;logo=Flask&amp;logoColor=white" alt="FLASK">
   <img src="https://img.shields.io/badge/MySql-F1C40F?style=for-the-badge&amp;logo=MySql&amp;logoColor=black" alt="MYSQL">
+  <!--<img src="https://img.shields.io/badge/Aws-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=black" alt="AWS">-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="html">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="javascript">
