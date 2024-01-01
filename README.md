@@ -5,7 +5,6 @@
   Welcome to my GitHub profile!!!
   <img src="https://visitor-badge.laobi.icu/badge?page_id=matheuznsilva.matheuznsilva" alt="visitors">
   <p></p>
-
 </h2>
 
 <div>
@@ -20,7 +19,7 @@
   <a href="https://discord.com/users/matheuznsilva#3534" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
-##
+---
 
 <div align="center">
   <p>
@@ -40,36 +39,55 @@
 <div>
   <ul>
     <li>💻 Fullstack developer </li><br/>
+    <li>🔭 Passionate about technology and enchanted by the power of artificial intelligence.</li><br/>
+    <li>👨🏾‍🎓 I'm a Computer Science student at the Universidade Federal de São João del-Rei</li><br/>
     <li>📌 I currently share my house in two cities, Sete Lagoas and São João del-Rei, both in Minas Gerais - Brazil.</li><br/>
-    <li>📚👨‍🎓 I'm a Computer Science student at the Universidade Federal de São João del-Rei</li><br/>
     <li>🌱 I'm delving deeper into Python, Flask and JavaScrip.</li><br/>
     <li>🇺🇸 I can express myself relatively well in English, but I'm trying to improve to achieve fluency.</li><br/>
     <li>💬 Any help or tips are always welcome! my social networks are in the links above</li><br/>
     <li>❤️ Interests: 💻 Coding, 📺 watching films and series, ⚽ watching and playing football, 🏎️ watching F1, 🎸 playing the guitar, 📚 reading books and 🎮 playing video games.</li><br/>
   </ul>
 </div>
-<div align="center" style="display: inline_block"><br>
-  
-  <img alt="Ge-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
-  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
-  <img alt="Ge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-  <img alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="Ge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="Ge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="Ge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <!--<img align="center" alt="Ge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />-->
-  <img alt="Ge-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <!--<img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>-->
-  <!--<img align="center" alt="Janela" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>-->
-  <img alt="Tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg"/>
-  <!--<img align="center" alt="Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>-->
-  <img alt="Ge-Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
-  <!--<img align="center" alt="LaTex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>-->
-  
-</div> 
 
-  ##
- 
+---
 
+<!--*************** Skills ***************-->
+
+<h3>🛠️ Tools and environments</h3>
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-323330.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" alt="vs-code">
+</div>
+
+---
+
+<!--*************** Front-end ***************-->
+
+<h3> Skills</h3>
+<div>
+  <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&amp;logo=C&amp;logoColor=white" alt="C">
+  <!--<img src="https://img.shields.io/badge/Java-E74C3C?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">-->
+  <img src="https://img.shields.io/badge/Python-F4D03F?style=for-the-badge&amp;logo=Python&amp;logoColor=black" alt="PYTHON">
+  <img src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&amp;logo=Flask&amp;logoColor=white" alt="FLASK">
+  <img src="https://img.shields.io/badge/MySql-F1C40F?style=for-the-badge&amp;logo=MySql&amp;logoColor=black" alt="MYSQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="html">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="javascript">
+  <img src="https://img.shields.io/badge/Arduino-58D68D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="arduino">
+</div>
+
+---
+
+<!--*************** Workspace setup ***************-->
+
+<h3>🖥️ Workspace Setup</h2>
+<div>
+  <img src="https://img.shields.io/badge/I7-10750H?style=for-the-badge&amp;logo=intel&amp;logoColor=white" alt="I7-10750H">
+  <img src="https://img.shields.io/badge/RAM-16GB-0071C5?style=for-the-badge&amp;logo=memoria-ram&amp;logoColor=white" alt="16GB RAM">
+  <img src="https://img.shields.io/badge/NVIDIA-GTX_2060-76B900?style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" alt="gtx-2060">
+  <img src="https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="ubuntu 22.04LTS">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" alt="vs-code">
+</div>
+
+---
