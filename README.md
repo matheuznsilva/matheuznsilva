@@ -8,7 +8,8 @@
 </h2>
 
 <div>
-  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="mario coding"/>
+  <!--<img src="https://i.imgur.com/1ZvVkDc.gif" alt="mario coding"/>-->
+  <img src="mariocoding.gif" alt="mario"/>
 </div>
 
 <p></p>
