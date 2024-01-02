@@ -65,7 +65,7 @@
 
 <h3>🤖 Skills</h3>
 <div>
-  <img src="https://img.shields.io/badge/C-1572B6?style=for-the-badge&amp;logo=C&amp;logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=white" alt="C">
   <!--<img src="https://img.shields.io/badge/Java-E74C3C?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">-->
   <img src="https://img.shields.io/badge/Python-F4D03F?style=for-the-badge&amp;logo=Python&amp;logoColor=black" alt="PYTHON">
   <img src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&amp;logo=Flask&amp;logoColor=white" alt="FLASK">
