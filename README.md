@@ -19,7 +19,6 @@
   <!--<a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>-->
   <a href="https://discord.com/users/matheuznsilva#3534" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://open.spotify.com/user/yo41t2dk9bkxb1d1hr73fir0k?si=11642abfe4c44ddf" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <>
 </div>
 
 ---
