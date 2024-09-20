@@ -8,8 +8,7 @@
 </h2>
 
 <div>
-  <!--<img src="https://i.imgur.com/1ZvVkDc.gif" alt="mario coding"/>-->
-  <img src="mariocoding.gif" alt="mario"/>
+  <img src="/img/mariocoding.gif" alt="mario"/>
 </div>
 
 <p></p>
@@ -38,10 +37,10 @@
 <div>
   <ul>
     <li>💻 Fullstack developer </li><br/>
-    <li>🔭 Passionate about technology and enchanted by the power of artificial intelligence.</li><br/>
-    <li>👨🏾‍🎓 I'm a Computer Science student at the Universidade Federal de São João del-Rei</li><br/>
+    <li>🔭 Passionate about technology, fascinated by Cybersecurity and intrigued by the possibilities that AI can provide.</li><br/>
+    <li>👨🏾‍🎓 I'm a Computer Science student at the Federal University of São João del-Rei</li><br/>
     <li>📌 I currently share my house in two cities, Sete Lagoas and São João del-Rei, both in Minas Gerais - Brazil.</li><br/>
-    <li>🌱 I'm delving deeper into Python, Flask and JavaScrip.</li><br/>
+    <li>🌱 I'm delving deeper into Python, JavaScrip and Cybersecurity.</li><br/>
     <li>🇺🇸 I can express myself relatively well in English, but I'm trying to improve to achieve fluency.</li><br/>
     <li>💬 Any help or tips are always welcome! my social networks are in the links above</li><br/>
     <li>❤️ Interests: 💻 Coding, 📺 watching films and series, ⚽ watching and playing football, 🏎️ watching F1, 🎸 playing the guitar, 📚 reading books and 🎮 playing video games.</li><br/>
@@ -57,6 +56,7 @@
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-323330.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" alt="vs-code">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt="TRELLO">
 </div>
 
 ---
@@ -69,12 +69,17 @@
   <!--<img src="https://img.shields.io/badge/Java-E74C3C?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">-->
   <img src="https://img.shields.io/badge/Python-F4D03F?style=for-the-badge&amp;logo=Python&amp;logoColor=black" alt="PYTHON">
   <img src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&amp;logo=Flask&amp;logoColor=white" alt="FLASK">
-  <img src="https://img.shields.io/badge/MySql-F1C40F?style=for-the-badge&amp;logo=MySql&amp;logoColor=black" alt="MYSQL">
+  <!--<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="FLUTTER">-->
   <!--<img src="https://img.shields.io/badge/Aws-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=black" alt="AWS">-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="html">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="javascript">
+  <!--<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="NODEJS">-->
+  <img src="https://img.shields.io/badge/MySql-F1C40F?style=for-the-badge&amp;logo=MySql&amp;logoColor=black" alt="MYSQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-E34F26?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="POSTGREE">
+  <!--<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="DOCKER">-->
   <img src="https://img.shields.io/badge/Arduino-58D68D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="arduino">
+  <!--<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="GPT">-->
 </div>
 
 ---
