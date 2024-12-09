@@ -30,7 +30,7 @@
   
   <a href="https://github.com/matheuznsilva">
   <img height="195px" src="https://github-readme-stats.vercel.app/api?username=matheuznsilva&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuznsilva&hide_border=true&layout=compact&langs_count=7&theme=tokyonight"/>  
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuznsilva&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>  
 </div>
 
 <!--*************** About ***************-->
@@ -51,7 +51,7 @@
 
 ---
 
-<!--*************** Skills ***************-->
+<!--*************** Tools ***************-->
 
 <h3>🛠️ Tools and environments</h3>
 <div>
@@ -63,7 +63,7 @@
 
 ---
 
-<!--*************** Front-end ***************-->
+<!--*************** Skills ***************-->
 
 <h3>🤖 Skills</h3>
 <div>
@@ -79,7 +79,7 @@
   <!--<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="NODEJS">-->
   <img src="https://img.shields.io/badge/MySql-F1C40F?style=for-the-badge&amp;logo=MySql&amp;logoColor=black" alt="MYSQL">
   <img src="https://img.shields.io/badge/PostgreSQL-E34F26?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="POSTGREE">
-  <!--<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="DOCKER">-->
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="DOCKER">
   <img src="https://img.shields.io/badge/Arduino-58D68D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" alt="arduino">
   <!--<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="GPT">-->
 </div>
